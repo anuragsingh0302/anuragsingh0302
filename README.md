@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuragsingh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Linux and its Architecture,with the basic commands---Jira---Git---Github---
+- 🌱 I’m currently learning ...Linux---Jira---Git---Github---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...anuragsingh@inevitableinfotech.com
 
